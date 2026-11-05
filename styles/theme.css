@@ -1,0 +1,14 @@
+/* CDN Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Meie+Script&display=swap');
+
+/* CSS Variables */
+:root {
+  --font-ko-main: 'Noto Serif KR', serif;
+  --font-ko-sub: 'Noto Sans KR', 'Malgun Gothic', '맑은 고딕', dotum, sans-serif;
+  --font-en-main: 'Cinzel', serif;
+  --color-primary: #E5F1F5;
+  --color-secondary: #333333;
+}
